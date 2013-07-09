@@ -39,7 +39,7 @@ Need to change the server address in the file index.html (lines 14, 16 and 28)
 
 
 
-![Auditap screenshot](https://github.com/matap/auditap/blob/master/img/screenShot/audio-editor.png "Auditap screenshot")
+![Auditap screenshot](https://github.com/matap/auditap/img/screenShot/audio-editor.png "Auditap screenshot")
 
 
 
