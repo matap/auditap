@@ -27,7 +27,6 @@ The application listens on port 8090
 *   Underscore
 *   JQuery
 *   Require.js
-
 *   Node-ffprobe
 *   PCM
 *   Express
