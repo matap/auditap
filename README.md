@@ -44,6 +44,17 @@ Need to change the server address in the file index.html (lines 14, 16 and 28)
 
 
 
+[![Licence Creative Commons][]][]\
+Uvedená práce (dílo) podléhá licenci [Creative Commons Uveďte
+autora-Neužívejte dílo komerčně-Nezasahujte do díla 3.0
+Unported][![Licence Creative Commons][]]\
+Vytvořeno na základě tohoto díla: [https://github.com/matap/auditap][]
+
+  [Licence Creative Commons]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
+  [![Licence Creative Commons][]]: http://creativecommons.org/licenses/by-nc-nd/3.0/deed.cs
+  [https://github.com/matap/auditap]: https://github.com/matap/auditap
+
+
 AUDITAP
 
 Vytvořil: Stanislav Kadlcík
