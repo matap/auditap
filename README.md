@@ -1,8 +1,8 @@
 Auditap
 =======
-Created by Stanislav Kadlcík
+Created by Stanislav Kadlcik
 
-### Basic functions:
+### Basic functions
 
 audio input
 scrolling audio
@@ -13,14 +13,14 @@ view audio transcript (*.lbf files)
 audio Playback
 drag & drop
 
-### Start the server:
+### Start the server
 The server part is dependent on MongoDB and NodeJS. NodeJS is needed to start up when running MongoDB
 start MongoDB: mongod (if there is a folder /data/db or c:\data\db)
 start node.js: node node-server.js
 The application listens on port 8090
 
 
-### Third party libraries:
+### Third party libraries
 *   Node.js
 *   Blueimp jquery file upload
 *   Socket.io
@@ -34,7 +34,7 @@ The application listens on port 8090
 *   MongoDB
 
 
-### Preparation of client:
+### Preparation of client
 Need to change the server address in the file index.html (lines 14, 16 and 28)
 
 
@@ -43,16 +43,9 @@ Need to change the server address in the file index.html (lines 14, 16 and 28)
 
 
 
-
-[![Licence Creative Commons][]][]\
-Uvedená práce (dílo) podléhá licenci [Creative Commons Uveďte
-autora-Neužívejte dílo komerčně-Nezasahujte do díla 3.0
-Unported][![Licence Creative Commons][]]\
-Vytvořeno na základě tohoto díla: [https://github.com/matap/auditap][]
-
-  [Licence Creative Commons]: http://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png
-  [![Licence Creative Commons][]]: http://creativecommons.org/licenses/by-nc-nd/3.0/deed.cs
-  [https://github.com/matap/auditap]: https://github.com/matap/auditap
+### License
+Attribution-NonCommercial-NoDerivs 3.0 Unported
+http://creativecommons.org/licenses/by-nc-nd/3.0/
 
 
 AUDITAP
