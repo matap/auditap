@@ -16,7 +16,9 @@ drag & drop
 ### Start the server
 The server part is dependent on MongoDB and NodeJS. NodeJS is needed to start up when running MongoDB
 start MongoDB: mongod (if there is a folder /data/db or c:\data\db)
-start node.js: node node-server.js
+
+
+Start node.js: node node-server.js
 The application listens on port 8090
 
 
