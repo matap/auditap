@@ -1,6 +1,14 @@
-Auditap
+---
+title: Auditap
+description: Web based audio editor
+author: Stanislav KadlÄÃ­k
+tags: web audio editor
+---
 
-Created by Stanislav Kadlèík
+
+Auditap
+=========
+Created by Stanislav KadlÄÃ­k
 
 Basic functions:
 
@@ -41,33 +49,33 @@ Need to change the server address in the file index.html (lines 14, 16 and 28)
 
 
 
-![Auditap screenshot](/img/screenShot/audio-editor.png "Auditap screenshot")
+![Auditap screenshot](https://github.com/matap/auditap/blob/master/img/screenShot/audio-editor.png "Auditap screenshot")
 
 
 
 
 AUDITAP
 
-Vytvoøil: Stanislav Kadlèík
+VytvoÅ™il: Stanislav KadlÄÃ­k
 
-Základní funkce: 
+ZÃ¡kladnÃ­ funkce: 
 
-vkládání audia
-posouvání audia
-zkracování, rozšiøování
-vytváøení novıch stop
+vklÃ¡dÃ¡nÃ­ audia
+posouvÃ¡nÃ­ audia
+zkracovÃ¡nÃ­, rozÅ¡iÅ™ovÃ¡nÃ­
+vytvÃ¡Å™enÃ­ novÃ½ch stop
 podpora CTRL + C, CTRL + V, CTRL + X
-zobrazení pøepisu
-pøehrávání audia
+zobrazenÃ­ pÅ™episu
+pÅ™ehrÃ¡vÃ¡nÃ­ audia
 drag & drop
 
-Spuštìní serveru: 
-Serverová èást je závislá na mongoDB a na NodeJS. NodeJS je potøeba spustit a kdy bìí mongoDB
-spuštìní mongoDB:  mongod (pokud existuje sloka /data/db nebo c:\data\db)
-spuštìní node.js: node node-server.js
-Aplikace poslouchá na portu 8090 
+SpuÅ¡tÄ›nÃ­ serveru: 
+ServerovÃ¡ ÄÃ¡st je zÃ¡vislÃ¡ na mongoDB a na NodeJS. NodeJS je potÅ™eba spustit aÅ¾ kdyÅ¾ bÄ›Å¾Ã­ mongoDB
+spuÅ¡tÄ›nÃ­ mongoDB:  mongod (pokud existuje sloÅ¾ka /data/db nebo c:\data\db)
+spuÅ¡tÄ›nÃ­ node.js: node node-server.js
+Aplikace poslouchÃ¡ na portu 8090 
 
 
-Pøíprava klientské èásti:
-potøeba zmìnit adresu serveru v souboru index.html
-a to konkrétnì na øádcích 14, 16, 28. 
+PÅ™Ã­prava klientskÃ© ÄÃ¡sti:
+potÅ™eba zmÄ›nit adresu serveru v souboru index.html
+a to konkrÃ©tnÄ› na Å™Ã¡dcÃ­ch 14, 16, 28. 
