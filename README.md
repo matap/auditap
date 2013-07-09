@@ -3,15 +3,15 @@ Auditap
 Created by Stanislav Kadlcik
 
 ### Basic functions
-
-audio input
-scrolling audio
-contraction, expansion
-create new tracks
-Support CTRL + C, CTRL + V, CTRL + X
-view audio transcript (*.lbf files)
-audio Playback
-drag & drop
+*   audio input
+*   scrolling audio
+*   contraction, expansion
+*   create new tracks
+*   Support CTRL + C, CTRL + V, CTRL + X
+*   view audio transcript (*.lbf files)
+*   audio Playback
+*   drag & drop
+*   saving project to server (JSON format)
 
 ### Start the server
 The server part is dependent on MongoDB and NodeJS. NodeJS is needed to start up when running MongoDB
@@ -36,7 +36,7 @@ The application listens on port 8090
 *   MongoDB
 
 
-### Preparation of client
+### How to prepare client
 Need to change the server address in the file index.html (lines 14, 16 and 28)
 
 
