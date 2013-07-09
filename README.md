@@ -21,6 +21,7 @@ The application listens on port 8090
 
 
 ### Third party libraries:
+*   Node.js
 *   Blueimp jquery file upload
 *   Socket.io
 *   Backbone
