@@ -46,30 +46,3 @@ Need to change the server address in the file index.html (lines 14, 16 and 28)
 ### License
 Attribution-NonCommercial-NoDerivs 3.0 Unported
 http://creativecommons.org/licenses/by-nc-nd/3.0/
-
-
-AUDITAP
-
-Vytvořil: Stanislav Kadlcík
-
-Zakladní funkce:
-
-vkladaní audia
-posouvání audia
-zkracování, rozsirování
-vytváření nových stop
-podpora CTRL + C, CTRL + V, CTRL + X
-zobrazení prepisu
-přehrávání audia
-drag & drop
-
-Spuštění serveru: 
-Serverová cást je závislá na mongoDB a na NodeJS. NodeJS je potřeba spustit až kdyz běží mongoDB
-spustění mongoDB:  mongod (pokud existuje složka /data/db nebo c:\data\db)
-spustění node.js: node node-server.js
-Aplikace poslouchá na portu 8090 
-
-
-Príprava klientské cásti:
-potreba změnit adresu serveru v souboru index.html
-a to konkrétne na radcich 14, 16, 28.
